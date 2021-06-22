@@ -5,5 +5,10 @@
 [Flask](https://pythonbasics.org/flask-login/)<br>
 [How to use Pycharm to create flask project](https://www.youtube.com/watch?v=jaNjzjojqUQ)<br>
 [พัฒนาเว็บด้วย Python & Flask (2 ชั่วโมงเต็ม เรียนฟรี !!! )](https://www.youtube.com/watch?v=2M_DXEqpTF8&t=68s)<br>
+[โดเมนคืออะไร ? โฮสติ้งคืออะไร ?](https://www.youtube.com/watch?v=8eTyBTXfGP0)<br>
+[การเปิดเว็บไซต์ จดโดเมน เช่าโฮสต์ติ้ง และติดตั้ง WordPress](https://www.youtube.com/watch?v=aYKvBWdCg3w)<br>
+[สร้างเว็บ ทำโดเมน และ โฮสต์ฟรี + สอนอัพเว็บไซต์ ของดีจาก 000webhost](https://www.youtube.com/watch?v=uQe1FhGz_gs&list=RDCMUCeKE6wQHTt5JpS9_RsH4hrg&index=2)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
